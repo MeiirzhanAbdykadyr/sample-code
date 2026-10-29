@@ -1,0 +1,2 @@
+# Needed only to fetch or update metadata. SQLite examples use the standard library.
+yfinance==1.7.0
